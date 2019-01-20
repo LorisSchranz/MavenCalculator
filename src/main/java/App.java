@@ -1,5 +1,8 @@
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
         Calculator calculator = new Calculator();
         int valueA = 0;
         int valueB = 0;
@@ -8,8 +11,10 @@ public class App {
         System.out.println("==================");
         System.out.println();
 
-        valueA = 10;
-        valueB = 20;
+        System.out.println();
+
+
         System.out.println("Summe " + valueA + " + " + valueB + " = " + calculator.sum(valueA,valueB));
+
     }
 }
