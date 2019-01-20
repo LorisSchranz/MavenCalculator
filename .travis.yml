@@ -5,6 +5,6 @@ deploy:
   provider: releases
   api_key:
     secure: RYgq13BeM7iVhqXJR3d9W0xIW9RPkRaFIUJdq7/nnRSaXJrlR1ABHfK5E8o+Pa77Y4WijFtv7zlb7Jx1/SDbQpQ08ECywg669pTjCdjge9dgx3ioOHTgLz4mDdDi1vZVOHIvu2ckN1ykUNFU/7J0FWheHHM9HR7UdgPAAE3iBhexfHxUtPZjLrKITmnBLrrCLlWOHwTZbIq1MnC9CGfshBsKCMccQ0rBIlIHqtgYvnrlg0GpRf4R8CdE5Bx007x6kr4qRJNypAwge++TrWeUikl3IWRWwPuAZlQ1UgJCJHJjs3IX7No8lQGVYTFyFr3LLtPUpqBlj/4Z/WROfXVFy1XJX5o17yo8jZZKMFNA8XLivIRFxrX0Lq+NVKiPDywh54/uk7/6HaxjMHvLJhAXd+gk8COZ3P8jsxkStEYnAJYtr79yV7RzY1EdAXpzMhgfCsiimqeOBPsTVLb0oFyPhNmyoNNPCgYvfNwJaWxggIC0FdUIq2G/TZ9RGDOY1aoD3ALb/RIOyxgo0teQqIPVMdyAmdvd7RgFj44RK7DGenhJD2xSwyyO/j+k/QJMefzErCTwC8lG30QMwXbNp06Wfw4mAwWq+fIs0nOA9mycbHLbuW7sH7IwXKNr3Hv8lxbB3OzuRHGBV43XlvW0BmZe1AETyViJ0Gm/xwwwcdiCg+g=
-  file: "/home/travis/.m2/repository/ch/bbw/MavenCalculator/1.0-SNAPSHOT/MavenCalculator-1.0-SNAPSHOT.jar"
+  file: "/home/travis/.m2/repository/ch/bbw/CalculatorMaven/1.0-SNAPSHOT/CalculatorMaven-1.0-SNAPSHOT.jar"
   on:
     repo: LorisSchranz/MavenCalculator
